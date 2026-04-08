@@ -7,22 +7,22 @@ A Mathematics graduate with a Big Data minor. My background in advanced mathemat
 
 ###  My Skills
 
-1.Microsoft Excel (Proficient)
-2.SQL (Intermediate)
-3.PowerBI (Proficient)
-4.Python (Intermediate)
+1.Microsoft Excel (Proficient)  
+2.SQL (Intermediate)  
+3.PowerBI (Proficient)  
+4.Python (Intermediate)  
 
 ---
 
 ### 📁 Featured Projects
 
-#### 📈 [Project Title: Managing Relational Database for Sports Centre] (MS Access)
+####  [Project Title: Managing Relational Database for Sports Centre] (MS Access)
 [gambar login]
 * **Features:** Login System where only admin can edit entries. Customer only allowed to book/ purchase.
 [gambar reports]
 * **Reports:** Revenue Reports and Booking grouped by Months
-* 
-#### 📉 [Project Title: Student Performance Analysis] (Excel + PowerBI)
+ 
+####  [Project Title: Student Performance Analysis] (Excel + PowerBI)
 * **The Goal:** Identify the key factors that most significantly influence student performance.
 * **The Data:** Using Data from Kaggle, cleaned using Excel and visualize in PowerBI as an interactive dashboard.
 [gambar dashboard]
