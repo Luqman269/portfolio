@@ -1,19 +1,32 @@
-# Hi there, I'm [Muhammad Luqman Hakim] 👋
+# Hi there, I'm Muhammad Luqman Hakim
 
-### 🚀 Mathematician / Data Analyst | [Your Specialty, e.g., Full Stack / Mobile / AI]
-I build [mention what you build, e.g., "scalable web apps and open-source tools"]. I'm passionate about clean code and [Interest, e.g., "UX design"].
+### Mathematician / Data Analyst
+A Mathematics graduate with a Big Data minor. My background in advanced mathematics, coupled with my experience in data analytics, allows me to efficiently tackle real-world business challenges. This portfolio showcases the skills mentioned below.
 
 ---
 
-### 🛠️ My Tech Stack
-![My Skills]
+###  My Skills
+
+1.Microsoft Excel (Proficient)
+2.SQL (Intermediate)
+3.PowerBI (Proficient)
+4.Python (Intermediate)
 
 ---
 
 ### 📁 Featured Projects
-1. **[Project Name]**: A brief 1-sentence description of the problem it solves.
-2. **[Project Name]**: Built with [Tech Stack]. Features include [Feature A] and [Feature B].
 
+#### 📈 [Project Title: Managing Relational Database for Sports Centre] (MS Access)
+[gambar login]
+* **Features:** Login System where only admin can edit entries. Customer only allowed to book/ purchase.
+[gambar reports]
+* **Reports:** Revenue Reports and Booking grouped by Months
+* 
+#### 📉 [Project Title: Student Performance Analysis] (Excel + PowerBI)
+* **The Goal:** Identify the key factors that most significantly influence student performance.
+* **The Data:** Using Data from Kaggle, cleaned using Excel and visualize in PowerBI as an interactive dashboard.
+[gambar dashboard]
+* **The Result:** telog
 ---
 
 ### 📫 Let's Connect
