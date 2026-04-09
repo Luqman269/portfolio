@@ -5,7 +5,7 @@ A Mathematics graduate with a Big Data minor. My background in advanced mathemat
 
 ---
 
-###  My Skills
+### My Skills
 
 1.Microsoft Excel (Proficient)  
 2.SQL (Intermediate)  
@@ -14,12 +14,12 @@ A Mathematics graduate with a Big Data minor. My background in advanced mathemat
 
 ---
 
-### 📁 Featured Projects
+###  Featured Projects
 
 ####  [Project Title: Managing Relational Database for Sports Centre] (MS Access)
-![image](Welcome Menu.png) ![image](Login Menu.png)
-* **Features:** Login System where only admin can edit entries. Customer only allowed to book/ purchase.
-[gambar reports]
+![image](WelcomeMenu.png)  ![image](LoginMenu.png)
+* **Features:** Login System where only admin can edit entries. Customer only allowed to book/purchase.
+![image](Report1.png)  ![image](Report2.png)
 * **Reports:** Revenue Reports and Booking grouped by Months
  
 ####  [Project Title: Student Performance Analysis] (Excel + PowerBI)
