@@ -1,3 +1,4 @@
+![image](mypic.jpg)
 # Hi there, I'm Muhammad Luqman Hakim
 
 ### Mathematician / Data Analyst
@@ -17,16 +18,19 @@ A Mathematics graduate with a Big Data minor. My background in advanced mathemat
 ###  Featured Projects
 
 ####  [Project Title: Managing Relational Database for Sports Centre] (MS Access)
+[Project Link](Sports Centre RDBMS.accdb)
+* **Features:** Login System using forms where only admin can edit entries. Customer only allowed to book/purchase.
 ![image](WelcomeMenu.png)  ![image](LoginMenu.png)
-* **Features:** Login System where only admin can edit entries. Customer only allowed to book/purchase.
-![image](Report1.png)  ![image](Report2.png)
 * **Reports:** Revenue Reports and Booking grouped by Months
- 
+![image](Report1.png)  ![image](Report2.png)
+
 ####  [Project Title: Student Performance Analysis] (Excel + PowerBI)
+
 * **The Goal:** Identify the key factors that most significantly influence student performance.
 * **The Data:** Using Data from Kaggle, cleaned using Excel and visualize in PowerBI as an interactive dashboard.
-[gambar dashboard]
-* **The Result:** telog
+![image](Dashboard1.png)  ![image](Dashboard2.png)  ![image](Dashboard3.png)
+* **The Result:** Demographic factors, such as students' race and their parents' education, affect their performance the most.
+
 ---
 
 ### 📫 Let's Connect
