@@ -1,4 +1,4 @@
-![image](mypic.jpg)
+![image](mypic.png)
 # Hi there, I'm Muhammad Luqman Hakim
 
 ### Mathematician / Data Analyst
