@@ -30,10 +30,3 @@ A Mathematics graduate with a Big Data minor. My background in advanced mathemat
 * **The Data:** Using Data from Kaggle, cleaned using Excel and visualize in PowerBI as an interactive dashboard.
 ![image](Dashboard1.png)  ![image](Dashboard2.png)  ![image](Dashboard3.png)
 * **The Result:** Demographic factors, such as students' race and their parents' education, affect their performance the most.
-
----
-
-###  Let's Connect
--  [Linked In](www.linkedin.com/in/muhammad-luqman-hakim-mohamed-ghazali-89545336b)
--  [Email](269luqmanhakim@gmail.com)
-[TEST](www.google.com)
